@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Update to 0.1.2 - Migrated to GitHub Pages",
-  "pub_date": "2026-07-12T13:00:00Z",
+  "version": "0.1.3",
+  "notes": "Update to 0.1.3",
+  "pub_date": "2026-07-12T14:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmk4bExhT3BQUmdoRXFsTTJid2ZZVlp1eXBpaVlNbWE0MnRtRnVhOCtrRy95Ui9wTVVVOVJjQ1FNUmJIdkNxcEFSU0dLbjR2VDdHQ3lRY0M0eFFieWlPQ25FOVZaK2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODY0ODU5CWZpbGU6U3VubyBXQVYgRG93bmxvYWRlcl8wLjEuMl94NjQtc2V0dXAuZXhlCk1CUGhyTG5HajRKbUoyYXdZZU11QitLSEZqQ3lHVjBQNzgwL3VFc281YXNmdUVHMHFyMUVQRDZSbDg0aXNrSFRNSitNWWMxMm1WYTIrNGNJMWhUS0FnPT0K",
-      "url": "https://snmsc83-art.github.io/sunowavdownloader/Suno%20WAV%20Downloader_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTmk4bExhT3BQUnJKbU9xZGhaQVJ1bVNQbDdEdjVKaTlOZDhubUVLU2xvQzdDZ3Nhd29zbXJoR3QrMWlqbHNoYTJiS3MxbEVObjJuRm1VMGlOL0pjUTJyMFArZG9LQVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODY2MjI4CWZpbGU6U3VubyBXQVYgRG93bmxvYWRlcl8wLjEuM194NjQtc2V0dXAuZXhlCmcxQWhUVll4MjUxTUtHc3plSExsL01ROHB4dVhWbytqbDczUEwxYnJ3c2FPTHowSk1EWlVST3lOWEZlUUIrK1d6MXdueEFyZzhmeUVsbU5qMGpWSkJRPT0K",
+      "url": "https://snmsc83-art.github.io/sunowavdownloader/Suno%20WAV%20Downloader_0.1.3_x64-setup.exe"
     }
   }
 }
